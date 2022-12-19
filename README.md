@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucasmo066
+- 👋 Hi, I’m Lucas
 - 👀 I’m interested in frontend development!
 - 🌱 I’m currently learning to work in a team at work!! 
 - 💞️ I’m looking to collaborate on open-source
