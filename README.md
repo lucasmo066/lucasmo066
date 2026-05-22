@@ -2,7 +2,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=CS+student+%40+CU+Boulder+%F0%9F%8F%94%EF%B8%8F;full-stack+developer;always+building+something" alt="Typing SVG" />
 </p>
-<h1 align="center">Lucas Moraes</h1>
+<h1 align="center"><b>Lucas Moraes</b>
+</h1>
  
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-moraes-atl-dev/">
@@ -69,11 +70,6 @@ const lucas = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
  
 ---
- 
-### GitHub stats
- 
-### GitHub stats
-
 ### GitHub stats
 
 <p align="center">
