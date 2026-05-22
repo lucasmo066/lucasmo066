@@ -87,6 +87,6 @@ const lucas = {
 - 🌱 &nbsp;Exploring fintech and baseball analytics as longer-term directions
 ---
  
-<h2 align="center">
-  "bootcamp → industry → back to school → building things that matter"
-</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=13&pause=999999&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&height=50&lines=BOOTCAMP+%E2%86%92+INDUSTRY+%E2%86%92+BACK+TO+SCHOOL+%E2%86%92+BUILDING+THINGS+THAT+MATTER" alt="footer" />
+</p>
