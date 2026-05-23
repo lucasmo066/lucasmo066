@@ -82,9 +82,9 @@ const lucas = {
 ### Currently
  
 - 📚 &nbsp;Rebuilding CS fundamentals from the ground up — data structures & algorithms in C++
-- 🏗️ &nbsp;Launching [Strivn Agency](https://github.com/lucasmo066) — full-stack sites for local Denver & Boulder businesses
-- 🎯 &nbsp;Targeting SWE internships for Summer 2026
-- 🌱 &nbsp;Exploring fintech and baseball analytics as longer-term directions
+- 🏗️ &nbsp;Launching Portfolio website
+- 🎯 &nbsp;Targeting SWE internships for Summer 2027
+- 🌱 &nbsp;Exploring long-term direction
 ---
  
 <p align="center">
