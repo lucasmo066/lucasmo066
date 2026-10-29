@@ -18,7 +18,7 @@
  
 ```ts
 const lucas = {
-  education : "B.S. Computer Science — CU Boulder '28",
+  education : "B.S. Computer Science — CU Boulder '27",
   location  : "Denver, CO",
   languages : ["English", "Portuguese", "Spanish"],
   stack     : ["TypeScript", "Next.js", "React", "Node.js", "Supabase", "C++"],
